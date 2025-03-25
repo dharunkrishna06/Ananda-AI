@@ -1,7 +1,7 @@
 
 # ChatBot: Master Crypto with Ananda
 
-Welcome to the OPIM5770-Team5/ChatBot repository.
+Welcome to the Ananda AI ChatBot repository.
 
 ## Introduction
 
@@ -222,5 +222,5 @@ This project analyzes different trading strategies (such as Simple Moving Averag
 ## Contact
 
 For questions, suggestions, or collaboration opportunities:  
-- **Email**: team5@opim5770.com  
-- **GitHub Repository**: [Ananda Chatbot](https://github.com/your-repo/OPIM5770-Team5)
+- **Email**: dharunkrishnanagaraj@gmail.com
+- **GitHub Repository**: [Ananda Chatbot](https://github.com/dharunkrishna06/Ananda-AI.git)
